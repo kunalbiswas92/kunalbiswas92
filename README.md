@@ -46,7 +46,10 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Browser stack](https://img.shields.io/badge/Browser%20Stack-8aff33?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ---
 
 Feel free to connect and explore my work. Let's automate the world, one test case at a time!
