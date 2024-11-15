@@ -1,18 +1,51 @@
-# 💫 About Me:
-Methodical QA professional with 9+ years of experience in optimal testing strategies. Open and clear communicator with good multitasking skills, organized nature and strong attention to detail. Experienced SDET and functional QE
+# Hi there, I'm Kunal Biswas 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kunal-biswas-8945ba125) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kunalbiswas92&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kunalbiswas92&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalbiswas92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDET)** with expertise in automation testing, advanced Java, REST API testing, and CI/CD tools. Passionate about enhancing software quality through efficient test automation and developing frameworks to support robust testing practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kunalbiswas92&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ My Skill Set
+- **Programming Languages**: Java, SQL (basic)
+- **Automation Tools**: Selenium, TestNG, JUnit, REST Assured, Cucumber , BDDfy
+- **DevOps & CI/CD**: Jenkins, Docker, GitHub Actions
+- **Cloud Testing**: BrowserStack, Azure
+- **Version Control**: Git, GitHub
+- **Test Frameworks**: Hybrid, Page Object Model (POM), BDD with Cucumber , Shift-Left design aproach
+- **Other Skills**: Multithreading, Concurrency, API Testing, Data-Driven Testing, Cross-Browser Testing
+
+---
+
+### 🌐 My Current Focus
+- **Enhancing Multithreading Knowledge**: Developing optimized multi-threaded test execution in Java.
+- **CI/CD Pipeline Automation**: Improving CI/CD automation for efficient build, test, and deployment cycles.
+  
+---
+
+### 🚀 What I'm Working On
+- **Hybrid Automation Framework**: Building a modular and scalable automation framework with support for UI and API tests.
+- **Test Optimization**: Researching techniques to reduce execution time and improve test reusability in high-scale environments.
+
+---
+
+### 🏆 Achievements
+- Developed a customized reporting mechanism for parallel test execution on BrowserStack.
+- Implemented a data-driven testing approach using TestNG with extensive use of DataProvider for varied test scenarios.
+
+---
+
+### 📫 How to Reach Me
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/kunal-biswas-8945ba125)
+- **Email**: [YourEmail@example.com](mailto:kunalbiswas241@gmail.com)
+---
+
+### 🧰 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/-REST%20Assured-85C1E9?style=for-the-badge&logo=api)
+![TestNG](https://img.shields.io/badge/-TestNG-FF0000?style=for-the-badge&logo=testing)
+![Github Actions](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+Feel free to connect and explore my work. Let's automate the world, one test case at a time!
