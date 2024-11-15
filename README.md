@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ![REST Assured](https://img.shields.io/badge/-REST%20Assured-85C1E9?style=for-the-badge&logo=api)
 ![TestNG](https://img.shields.io/badge/-TestNG-FF0000?style=for-the-badge&logo=testing)
 ![Github Actions](https://img.shields.io/badge/-GithubActions-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Browser stack](https://img.shields.io/badge/BrowserStack-8aff33?style=for-the-badge&logo=docker&logoColor=white)
+![Browser stack](https://img.shields.io/badge/Browser%20Stack-8aff33?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
