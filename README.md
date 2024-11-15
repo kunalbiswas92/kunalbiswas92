@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ---
 
 ### 🚀 What I'm Working On
-- **Hybrid Automation Framework**: Building a modular and scalable automation framework with support for UI and API tests.
+- **Hybrid Automation Framework**: Building a modular and scalable automation framework with support for UI , Mobile and API tests.
 - **Test Optimization**: Researching techniques to reduce execution time and improve test reusability in high-scale environments.
 
 ---
